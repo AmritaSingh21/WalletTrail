@@ -1,5 +1,10 @@
-## Project : WalletTrail
-# By: Amrita Singh 300352629
+# WalletTrail
+# By: Amrita Singh
+
+WalletTrail is an expense management application which will be built using Laravel. The
+main aim of this project is to create an easy and quick tracking of a user’s income and
+expenses. This app will help users to plan their monthly budget by adding their day-to-day
+expenses, making their life easier.
 
 ## Deployment Instruction for WalletTrail
 
